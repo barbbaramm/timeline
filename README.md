@@ -49,7 +49,7 @@ Cada etapa trouxe aprendizados que me guiaram até aqui:
 ---
 
 <p align="center">
-  <!-- GIF do Suga sorrindo (segundo escolhido da tour Arirang) -->
+  <!-- GIF do Suga sorrindo  -->
   <img src="https://media.giphy.com/media/Smile-Suga-Bts/giphy.gif" width="400">
 </p>
 
